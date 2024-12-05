@@ -1,0 +1,122 @@
+<text_analysis_prompt>
+    <objective>
+        Perform a comprehensive, dialectical analysis of the given text, revealing its internal logic, hidden tensions, and broader social implications.
+    </objective>
+    
+    <response_guidelines>
+        <length_requirement>
+            - Provide a THOROUGHLY DETAILED response
+            - DEPTH IS CRITICAL: Aim for a minimum of 800-1200 words
+            - AVOID SHORT OR CURSORY RESPONSES
+            - Explore each aspect of the analysis with significant depth and nuance
+            - Include multiple layers of explanation and supporting examples
+            - Break down complex ideas into granular, well-explained components
+        </length_requirement>
+        
+        <analysis_depth>
+            - Develop each point with multiple paragraphs
+            - Provide concrete textual evidence
+            - Explain the reasoning behind each observation
+            - Anticipate and address potential counterarguments
+            - Connect local observations to broader conceptual frameworks
+        </analysis_depth>
+        
+        <complexity_expectation>
+            - Complexity is valued over brevity
+            - Each section should demonstrate rigorous intellectual engagement
+            - Demonstrate sophisticated, multi-layered thinking
+            - Show how details connect to broader theoretical implications
+        </complexity_expectation>
+    </response_guidelines>
+    
+    <procedural_steps>
+        <step1>
+            <name>Holistic Theme Identification</name>
+            <description>
+                - Read the entire text to grasp its overall conceptual landscape
+                - Identify primary themes and overarching concepts
+                - Develop a preliminary understanding of the text's fundamental argument
+                - Analyze the text's conceptual architecture and primary intellectual moves
+            </description>
+        </step1>
+        
+        <step2>
+            <name>Granular Page-Level Analysis</name>
+            <description>
+                - Return to the text's beginning
+                - Conduct an extremely close, page-by-page reading
+                - Meticulously identify concepts on each page
+                - Explicate the intricate relationships between these page-level concepts
+                - Show how local ideas connect to or complicate the broader thematic understanding
+            </description>
+        </step2>
+    </procedural_steps>
+    
+    <analysis_dimensions>
+        <detailed_examination>
+            - Scrutinize specific word choices and their nuanced implications
+            - Identify precise textual moments and their significance
+            - Detect subtle patterns and recurring linguistic elements
+            - Trace how small details connect to larger meanings
+            - Analyze the semantic density of key passages
+        </detailed_examination>
+        
+        <structural_analysis>
+            - Map the text's overall conceptual architecture
+            - Identify major thematic movements and transformations
+            - Understand how the text's structure reveals its underlying logic
+            - Examine the rhetorical strategies employed
+            - Analyze the text's argumentative progression
+        </structural_analysis>
+        
+        <dialectical_tensions>
+            - Expose internal contradictions within the text
+            - Reveal tensions between stated intentions and actual implications
+            - Analyze how specific elements both support and undermine the text's broader claims
+            - Identify unresolved conceptual conflicts
+            - Explore the productive potential of these internal tensions
+        </dialectical_tensions>
+        
+        <historical_mediation>
+            - Demonstrate how the text's internal logic reflects its historical conditions
+            - Uncover social and ideological markers embedded in the language
+            - Show how textual elements unconsciously reveal broader social dynamics
+            - Situate the text within its intellectual and historical context
+            - Analyze how historical conditions shape the text's conceptual possibilities
+        </historical_mediation>
+    </analysis_dimensions>
+    
+    <output_structure>
+        <significant_details>
+            - Comprehensive list of critical moments
+            - Detailed examination of key word choices and their implications
+            - Thorough mapping of linguistic and thematic patterns
+            - Explanation of how these details contribute to broader meaning
+        </significant_details>
+        
+        <systemic_contradictions>
+            - Detailed analysis of semantic tensions
+            - Exploration of structural inconsistencies
+            - Revelation of unconscious theoretical assumptions
+            - Mapping of conceptual fault lines
+        </systemic_contradictions>
+        
+        <contextual_insights>
+            - Rigorous historical reflections
+            - Comprehensive inventory of ideological markers
+            - Deep exploration of social subtext
+            - Connection between textual elements and broader social dynamics
+        </contextual_insights>
+    </output_structure>
+    
+    <final_expectation>
+        Produce an analysis that is:
+        - Intellectually rigorous
+        - Theoretically sophisticated
+        - Meticulously detailed
+        - Critically insightful
+        
+        Your goal is not merely to describe, but to REVEAL the text's hidden logic, its internal tensions, and its broader significance.
+    </final_expectation>
+</text_analysis_prompt>
+
